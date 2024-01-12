@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="TableReference" size="1.000000 1.491409" />
+    <ImageTarget name="Sabueso" size="1.000000 1.491409" />
+    <ImageTarget name="Rana" size="1.000000 1.491409" />
+    <ImageTarget name="Mula" size="1.000000 1.491409" />
+    <ImageTarget name="Lobo" size="1.000000 1.491409" />
+    <ImageTarget name="Ardilla" size="1.000000 1.491409" />
+    <ImageTarget name="Stoat" size="1.000000 1.491409" />
+  </Tracking>
+</QCARConfig>
